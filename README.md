@@ -1,27 +1,3 @@
-# group7.github.io
-
-<html>
-<head>
-<style>
-body {
-  background-color: Black;
-}
-
-h1 {
-  color: white;
-  text-align: center;
-}
-
-p {
-  font-family: verdana;
-  font-size: 20px;
-}
-</style>
-</head>
-<body>
-
-<h1>Welcome to Our Website</h1>
-<p>LifeLabs Group 7 BO4-09-S1-1</p>
 
 
 ##  a. ***Chosen category***
